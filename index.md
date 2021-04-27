@@ -9,8 +9,10 @@ I am a PhD candidate in Operations Management at the School of Business and Mana
   - [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html).
  
 - B.Sc., Mathematics, Sun Yat-sen University, 2015-2019.
+  - GPA: 3.9/4.0
 
 - Visiting Undergrad, Mathematics, UC Berkeley, 2017 Spring.
+  - GPA: 4.0/4.0
 
 ### Research
 - Fu, Xingyu, Ying-Ju Chen, Guillermo Gallego and Pin Gao, “[Intra-Platform Policy Implementation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733)“, to be submitted.
