@@ -6,7 +6,7 @@ I am a PhD candidate in Operations Management at the School of Business and Mana
 ### Education
 - Ph.D., Operations Management, HKUST, 2020-2025 (expected).
   - Advisors: [Ying-Ju Chen](https://imchen.people.ust.hk/) and [Guillermo Gallego](https://ieda.ust.hk/dfaculty/ggallego/).
-  - Hong Kong PhD Fellowship.
+  - [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html).
  
 - B.Sc., Mathematics, Sun Yat-sen University, 2015-2019.
 
