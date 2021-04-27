@@ -1,5 +1,5 @@
 ## Welcome to Xingyu's Page!
-I am a PhD candidate in Operations Management at School of Business and Management (Department of ISOM), the Hong Kong University of Science and Technology (HKUST).
+I am a PhD candidate in Operations Management at the School of Business and Management (Department of ISOM), Hong Kong University of Science and Technology (HKUST).
 
 ### Education
 - Ph.D., Operations Management, HKUST, 2020-2025 (expected).
