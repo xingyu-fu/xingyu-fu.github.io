@@ -1,4 +1,3 @@
-## Welcome to Xingyu's Page!
 I am a PhD candidate in Operations Management at the School of Business and Management (Department of ISOM), Hong Kong University of Science and Technology (HKUST). 
 - My research interests include socially responsible operations, environment-friendly operations and two-sided market. 
 - The methods I use include mechanism design and convex analysis.
