@@ -6,8 +6,9 @@ I am a PhD candidate in Operations Management at School of Business and Manageme
   - Advisors: [Ying-Ju Chen](https://imchen.people.ust.hk/) and [Guillermo Gallego](https://ieda.ust.hk/dfaculty/ggallego/).
   - Hong Kong PhD Fellowship.
  
-- B.Sc. Mathematics, Sun Yat-sen University, 2015-2019.
+- B.Sc., Mathematics, Sun Yat-sen University, 2015-2019.
 
 - Visiting Undergrad, Mathematics, UC Berkeley, 2017 Spring.
 
 ### Research
+- Fu, Xingyu, Ying-Ju Chen, Guillermo Gallego and Pin Gao, “[Intra-Platform Policy Implementation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733)“, to be submitted.
