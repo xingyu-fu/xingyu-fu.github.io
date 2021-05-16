@@ -14,4 +14,4 @@ I am a PhD candidate in Operations Management at the School of Business and Mana
   - GPA: 4.0/4.0
 
 ### Research
-- Fu, Xingyu, Ying-Ju Chen, Guillermo Gallego and [Pin Gao](https://pin-gao-cuhk.github.io/), “[Policy Implementation in the Presence of Platform-Retailer Conflict](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733)“, Under Review.
+- Fu, Xingyu, Ying-Ju Chen, Guillermo Gallego and [Pin Gao](https://pin-gao-cuhk.github.io/), “[Policy Implementation in the Presence of Platform-Retailer Conflict](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733)“, Under Review at Management Science.
