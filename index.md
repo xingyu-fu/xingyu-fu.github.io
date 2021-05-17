@@ -13,7 +13,7 @@ I am a PhD candidate in Operations Management at the School of Business and Mana
 - Visiting Undergrad, Math & Econ, UC Berkeley, 2017 Spring.
   - GPA: 4.0/4.0
 
-- High School Diploma, Science, Shenzhen Experimental High School, 2012-2015.
+- Shenzhen Experimental High School, 2012-2015.
 
 ### Research
 - Fu, Xingyu, Ying-Ju Chen, Guillermo Gallego and [Pin Gao](https://pin-gao-cuhk.github.io/), “[Policy Implementation in the Presence of Platform-Retailer Conflict](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733)“, Under Review at Management Science. 
