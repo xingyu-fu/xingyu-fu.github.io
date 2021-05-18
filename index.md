@@ -1,10 +1,12 @@
 Thank you for visiting my page!
 
-I am a PhD candidate in Operations Management at the School of Business and Management, Department of ISOM, the Hong Kong University of Science and Technology (HKUST). 
+I am a PhD candidate in Operations Management at the School of Business and Management, Department of ISOM, the Hong Kong University of Science and Technology (HKUST).
+
 My research interests include:
 - sustainable operations (e.g., carbon emission policy)
 - platform operations
 - socially responsible operations
+
 The methods I use include 
 - game theory, mechanism design
 
