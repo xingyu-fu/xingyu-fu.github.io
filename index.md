@@ -1,6 +1,12 @@
-I am a PhD candidate in Operations Management at the School of Business and Management (Department of ISOM), Hong Kong University of Science and Technology (HKUST). 
-- My research interests include socially responsible operations, environment-friendly operations and two-sided market. 
-- The methods I use include mechanism design and convex analysis.
+Thank you for visiting my page!
+
+I am a PhD candidate in Operations Management at the School of Business and Management, Department of ISOM, the Hong Kong University of Science and Technology (HKUST). 
+My research interests include:
+- sustainable operations (e.g., carbon emission policy)
+- platform operations
+- socially responsible operations
+The methods I use include 
+- game theory, mechanism design
 
 ### Education
 - Ph.D., Operations Management, HKUST, 2020-2025 (expected).
@@ -17,3 +23,7 @@ I am a PhD candidate in Operations Management at the School of Business and Mana
 
 ### Research
 - Fu, Xingyu, Ying-Ju Chen, Guillermo Gallego and [Pin Gao](https://pin-gao-cuhk.github.io/), “[Policy Implementation in the Presence of Platform-Retailer Conflict](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733)“, Under Review at Management Science. 
+
+
+
+_Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me._
