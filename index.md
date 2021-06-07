@@ -8,7 +8,7 @@ My research interests include:
 - socially responsible operations
 
 The methods I use include 
-- game theory, mechanism design
+- mechanism design
 
 ### Education
 - Ph.D., Operations Management, HKUST, 2020-2025 (expected).
