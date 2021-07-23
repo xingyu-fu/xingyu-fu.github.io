@@ -24,8 +24,4 @@ My research interests include:
 
 - Xingyu Fu, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Mengqian Lu, “When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?”, In Preparation.
 
-- Xingyu Fu, Guokai Li, Pin Gao and Ying-Ju Chen, “Product Design with Multiple Attributes”, In Preparation.
-
-- Xingyu Fu, Pin Gao, Haoyu Liu, Ying-Ju Chen, "Optimal Job Assignment with Spillover Effect", In Preparation.
-
 _Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me._
