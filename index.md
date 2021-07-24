@@ -20,7 +20,7 @@ My research interests include:
 <!-- - Shenzhen Experimental High School, 2012-2015. -->
 
 ### Research
-- Xingyu Fu, Ying-Ju Chen, Guillermo Gallego and [Pin Gao](https://pin-gao-cuhk.github.io/), “[Policy Implementation in the Presence of Platform-Retailer Conflict](https://www.researchgate.net/publication/351048835_Policy_Implementation_in_the_Presence_of_Platform-Retailer_Conflict)“, Under Review at Management Science. 
+- Xingyu Fu, Ying-Ju Chen, Guillermo Gallego and [Pin Gao](https://pin-gao-cuhk.github.io/), “[Policy Implementation in the Presence of Platform-Retailer Conflict](https://www.researchgate.net/publication/351048835_Policy_Implementation_in_the_Presence_of_Platform-Retailer_Conflict)“, Under Review. 
 
 - Xingyu Fu, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Mengqian Lu, “When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?”, In Preparation.
 
