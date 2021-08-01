@@ -15,7 +15,7 @@ My research interests include:
   - GPA: 3.9/4.0
 
 - Visiting Scholar, CUHK-SZ, 2021.07-2021.08.
-  - Advisor: [Pin Gao](https://pin-gao-cuhk.github.io/)
+  - Advisor: [Pin Gao](https://pin-gao-cuhk.github.io/).
 
 - Visiting Undergrad, Math & Econ, UC Berkeley, 2017 Spring.
   - GPA: 4.0/4.0
