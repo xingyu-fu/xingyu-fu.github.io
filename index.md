@@ -3,8 +3,8 @@ Thank you for visiting my page!
 I am a PhD candidate in Operations Management at the School of Business and Management, Department of ISOM, the Hong Kong University of Science and Technology.
 
 My research interests include:
-- Sustainable Operations (E.g., Climate Change, Environmental Regulation)
-- Business Analytics (E.g., Platform Economy, Consumer Search)
+- Sustainable Operations (e.g., climate change, environmental regulation)
+- Business Analytics (e.g., platform economy, product design)
 
 ### Education
 - Ph.D., Operations Management, HKUST, 2020-2025 (expected).
