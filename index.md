@@ -16,7 +16,7 @@ My research interests include:
 
 - Visiting Undergrad, Math & Econ, UC Berkeley, 2017 Spring.
   - GPA: 4.0/4.0
-  - Funded by Yat-sen School, SYSU
+  - Funded by Yat-sen School, SYSU.
 
 <!-- - Shenzhen Experimental High School, 2012-2015. -->
 
