@@ -21,9 +21,13 @@ My research interests include:
 <!-- - Shenzhen Experimental High School, 2012-2015. -->
 
 ### Research
-- Xingyu Fu, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Mengqian Lu, “[When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?](https://www.researchgate.net/publication/353731289_When_Should_the_Regulator_AllowProhibit_Inter-Temporal_Transfer_of_Emission_Permits)”, To Be Submitted.
+(† Corresponding Author * The authors’ names are alphabetically ordered.)
+
+[1] Xingyu Fu, Ying-Ju Chen, Guillermo Gallego, Pin Gao† and Mengqian Lu, “[When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?](https://www.researchgate.net/publication/353731289_When_Should_the_Regulator_AllowProhibit_Inter-Temporal_Transfer_of_Emission_Permits)”, To Be Submitted.
 
 
-- Xingyu Fu, Ying-Ju Chen, Guillermo Gallego and Pin Gao, “[Policy Implementation in the Presence of Platform-Retailer Conflict](https://www.researchgate.net/publication/351048835_Policy_Implementation_in_the_Presence_of_Platform-Retailer_Conflict)“, R&R. 
+[2] Xingyu Fu, Ying-Ju Chen, Guillermo Gallego and Pin Gao†, “[Policy Implementation in the Presence of Platform-Retailer Conflict](https://www.researchgate.net/publication/351048835_Policy_Implementation_in_the_Presence_of_Platform-Retailer_Conflict)“, R&R. 
+
+
 
 _Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me._
