@@ -6,6 +6,7 @@ My research interests include:
 - Sustainable operations (e.g., climate change, environmental regulation)
 - Business analytics (e.g., platform economy, product design)
 
+* * *
 ### Education
 - Ph.D., Operations Management, HKUST, 2020-2025 (expected).
   - Advisors: [Ying-Ju Chen](https://imchen.people.ust.hk/) and [Guillermo Gallego](https://ieda.ust.hk/dfaculty/ggallego/).
@@ -18,6 +19,7 @@ My research interests include:
   - GPA: 4.0/4.0
   - Funded by Yat-sen School, SYSU.
 
+* * *
 ### Research
 † Corresponding author.   * Authors’ names are alphabetically ordered.
 
