@@ -18,11 +18,8 @@ My research interests include:
   - GPA: 4.0/4.0
   - Funded by Yat-sen School, SYSU.
 
-<!-- - Shenzhen Experimental High School, 2012-2015. -->
-
 ### Research
-† Corresponding Author 
-* The authors’ names are alphabetically ordered
+† Corresponding author.   * Authors’ names are alphabetically ordered.
 
 [1] Xingyu Fu, Ying-Ju Chen, Guillermo Gallego, Pin Gao† and Mengqian Lu, “[When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?](https://www.researchgate.net/publication/353731289_When_Should_the_Regulator_AllowProhibit_Inter-Temporal_Transfer_of_Emission_Permits)”, To Be Submitted.
 
