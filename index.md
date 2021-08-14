@@ -1,3 +1,5 @@
+_Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me._
+
 Thank you for visiting my page!
 
 I am a PhD candidate in Operations Management at the School of Business and Management, Department of ISOM, the Hong Kong University of Science and Technology.
@@ -27,7 +29,3 @@ My research interests include:
 
 
 [2] Xingyu Fu, Ying-Ju Chen, Guillermo Gallego and Pin Gao†, “[Policy Implementation in the Presence of Platform-Retailer Conflict](https://www.researchgate.net/publication/351048835_Policy_Implementation_in_the_Presence_of_Platform-Retailer_Conflict)“, R&R. 
-
-
-
-_Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me._
