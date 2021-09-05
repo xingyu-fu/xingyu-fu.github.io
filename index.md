@@ -1,6 +1,8 @@
-- _Rejoice always, pray continually, give thanks in all circumstances._
-- _Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me._
+_Rejoice always, pray continually, give thanks in all circumstances._
 
+_Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me._
+
+* * *
 Thank you for visiting my page!
 
 I am a PhD candidate in Operations Management at the School of Business and Management, Department of ISOM, the Hong Kong University of Science and Technology.
