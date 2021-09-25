@@ -13,7 +13,7 @@ My research interests include:
 
 * * *
 ### Education
-- Ph.D., Operations Management, HKUST, 2020-2025 (expected).
+- Ph.D., Operations Management, HKUST, 2020.02-present.
   - Advisors: [Ying-Ju Chen](https://imchen.people.ust.hk/) and [Guillermo Gallego](https://ieda.ust.hk/dfaculty/ggallego/).
   - [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html).
  
