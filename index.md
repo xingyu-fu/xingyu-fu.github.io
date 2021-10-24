@@ -34,4 +34,5 @@ My research interests include:
 
 [2] Xingyu Fu, Ying-Ju Chen, Guillermo Gallego and Pin Gao†, “[Policy Implementation in the Presence of Platform-Retailer Conflict](https://www.researchgate.net/publication/351048835_Policy_Implementation_in_the_Presence_of_Platform-Retailer_Conflict)“, **R&R**. 
 
-[3] Xingyu Fu, Pin Gao, Haoyu Liu, and Ying-Ju Chen, "Optimal Job Assignment with Spillover Effect", In Preparation.
+[3] Xingyu Fu, Pin Gao, Haoyu Liu, and Ying-Ju Chen, "Emissions Reduction Task Assignment in the Presence of Positive Environmental Externality
+", Under Review.
