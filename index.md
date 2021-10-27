@@ -9,7 +9,7 @@ Thank you for visiting my page!
 I am a PhD candidate in Operations Management at the School of Business and Management, Department of ISOM, the Hong Kong University of Science and Technology.
 
 My research interests include:
-- Socially Responsible Operations (e.g., environment, fairness, farmer welfare, public project)
+- Socially Responsible Operations (e.g., emission, fairness, farmer welfare, public project)
 - Business Analytics (e.g., platform economy, om-marketing interface)
 
 * * *
