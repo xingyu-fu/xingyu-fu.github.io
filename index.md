@@ -3,16 +3,6 @@ _Rejoice always, pray continually, give thanks in all circumstances._
 _Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me._
 
 * * *
-### About Me
-Thank you for visiting my page!
-
-I am a PhD candidate in Operations Management at the School of Business and Management, Department of ISOM, the Hong Kong University of Science and Technology.
-
-My research interests include:
-- Socially Responsible Operations (e.g., emission, fairness, farmer welfare, public project)
-- Business Analytics (e.g., platform economy, om-marketing interface)
-
-* * *
 ### Education
 - Ph.D., Operations Management, HKUST, 2020.02-present.
   - Advisors: [Ying-Ju Chen](https://imchen.people.ust.hk/) and [Guillermo Gallego](https://ieda.ust.hk/dfaculty/ggallego/).
@@ -24,6 +14,12 @@ My research interests include:
 - Visiting Undergrad, Math & Econ, UC Berkeley, 2017 Spring.
   - GPA: 4.0/4.0
   - Funded by Yat-sen School, SYSU.
+
+* * *
+### Research Interest
+- Socially Responsible Operations (e.g., climate change, fairness, farmer welfare, public project)
+- Business Analytics (e.g., platform economy, om-marketing interface)
+
 
 * * *
 ### Research
