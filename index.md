@@ -30,6 +30,6 @@ _Yea, though I walk through the valley of the shadow of death, I will fear no ev
 
 [2] Xingyu Fu, Ying-Ju Chen, Guillermo Gallego and Pin Gao†, “[Policy Implementation in the Presence of Platform-Retailer Conflict](https://www.researchgate.net/publication/351048835_Policy_Implementation_in_the_Presence_of_Platform-Retailer_Conflict)“, **R&R**. 
 
-[3] Xingyu Fu, Baozhuang Niu, Pin Gao†, and Ying-Ju Chen "Pre-Committed vs. Outcome-Based: Governmental Seed Provision with Farmer-Led Process Innovation", In Preparation.
+[3] Xingyu Fu, Baozhuang Niu, Pin Gao†, and Ying-Ju Chen "[Pre-Committed vs. Outcome-Based: Governmental Seed Provision with Farmer-Led Process Innovation](https://www.researchgate.net/publication/356831169_Pre-Committed_vs_Outcome-Based_Governmental_Seed_Provision_with_Farmer-Led_Process_Innovation)", In Preparation.
 
 [4] Xingyu Fu, Pin Gao, Haoyu Liu, and Ying-Ju Chen, "Optimal Job Assignment with Spillover Effect", Under Review.
