@@ -28,7 +28,7 @@ _Yea, though I walk through the valley of the shadow of death, I will fear no ev
 [1] Xingyu Fu, Ying-Ju Chen, Guillermo Gallego, Pin Gao† and Mengqian Lu, “[When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?](https://www.researchgate.net/publication/353731289_When_Should_the_Regulator_AllowProhibit_Inter-Temporal_Transfer_of_Emission_Permits)”.
 
 
-[2] Xingyu Fu, Ying-Ju Chen, Guillermo Gallego and Pin Gao†, “[Policy Implementation in the Presence of Platform-Retailer Conflict](https://www.researchgate.net/publication/351048835_Policy_Implementation_in_the_Presence_of_Platform-Retailer_Conflict)“, **R&R**. 
+[2] Xingyu Fu, Ying-Ju Chen, Guillermo Gallego and Pin Gao†, “[Policy Implementation in the Presence of Platform-Retailer Conflict](https://www.researchgate.net/publication/351048835_Policy_Implementation_in_the_Presence_of_Platform-Retailer_Conflict)“. 
 
 [3] Xingyu Fu, Baozhuang Niu, Pin Gao†, and Ying-Ju Chen "[Pre-Committed vs. Outcome-Based: Governmental Seed Provision with Farmer-Led Process Innovation](https://www.researchgate.net/publication/356831169_Pre-Committed_vs_Outcome-Based_Governmental_Seed_Provision_with_Farmer-Led_Process_Innovation)".
 
