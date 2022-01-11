@@ -18,7 +18,7 @@ _Yea, though I walk through the valley of the shadow of death, I will fear no ev
 * * *
 ### Research Interest
 - Socially Responsible Operations (e.g., climate change, fairness, farmer welfare, public project)
-- Business Analytics (e.g., platform economy, om-marketing interface)
+- Business Analytics (e.g., platform economics, om-marketing interface)
 
 
 * * *
