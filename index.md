@@ -31,4 +31,6 @@ Xingyu Fu, Ying-Ju Chen, Guillermo Gallego and Pin Gao, “[Policy Implementatio
 
 Xingyu Fu, Baozhuang Niu, Pin Gao, and Ying-Ju Chen "[Pre-Committed vs. Outcome-Based: Governmental Seed Provision with Farmer-Led Process Innovation](https://www.researchgate.net/publication/356831169_Pre-Committed_vs_Outcome-Based_Governmental_Seed_Provision_with_Farmer-Led_Process_Innovation)", Under Review.
 
+Xingyu Fu, Pin Gao, Haoyu Liu, and Ying-Ju Chen "Optimal Job Assignment with Spillover Effect", Under Review.
+
 Pin Gao, Xingyu Fu, Haoyu Liu, and Ying-Ju Chen "Add-Ons in Services", **Major Revision**.
