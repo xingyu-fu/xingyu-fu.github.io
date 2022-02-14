@@ -30,3 +30,5 @@ Xingyu Fu, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Mengqian Lu, “[When Sh
 Xingyu Fu, Ying-Ju Chen, Guillermo Gallego and Pin Gao, “[Policy Implementation in the Presence of Platform-Retailer Conflict](https://www.researchgate.net/publication/351048835_Policy_Implementation_in_the_Presence_of_Platform-Retailer_Conflict)“, **R&R**.
 
 Xingyu Fu, Baozhuang Niu, Pin Gao, and Ying-Ju Chen "[Pre-Committed vs. Outcome-Based: Governmental Seed Provision with Farmer-Led Process Innovation](https://www.researchgate.net/publication/356831169_Pre-Committed_vs_Outcome-Based_Governmental_Seed_Provision_with_Farmer-Led_Process_Innovation)", Under Review.
+
+Pin Gao, Xingyu Fu, Haoyu Liu, and Ying-Ju Chen "Add-Ons in Services", **Major Revision**.
