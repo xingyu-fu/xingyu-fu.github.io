@@ -34,5 +34,3 @@ Xingyu Fu, Pin Gao, Haoyu Liu, and Ying-Ju Chen "Optimal Job Assignment with Spi
 Zongsen Yang, Xingyu Fu†, Pin Gao, and Ying-Ju Chen, "Fairness Regulation in Competitive Markets".
 
 Pin Gao, Xingyu Fu, Haoyu Liu, and Ying-Ju Chen "Add-Ons in Services", **Major Revision**.
-
-(†: I am the corresponding author)
