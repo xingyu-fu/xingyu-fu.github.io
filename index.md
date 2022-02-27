@@ -22,8 +22,6 @@ Business Analytics (e.g., om-marketing interface, platform economics, supply cha
 
 * * *
 ### Selected Research
-_†: I am the corresponding author.
-
 Xingyu Fu, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Mengqian Lu, “[When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?](https://www.researchgate.net/publication/353731289_When_Should_the_Regulator_AllowProhibit_Inter-Temporal_Transfer_of_Emission_Permits)”.
 - [POMS-HK 2022 Best Student Paper Award](https://www.ln.edu.hk/hkibs/pomshk2022/index.htm) (**Honorable Mention**).
 
@@ -36,3 +34,5 @@ Xingyu Fu, Pin Gao, Haoyu Liu, and Ying-Ju Chen "Optimal Job Assignment with Spi
 Zongsen Yang, Xingyu Fu†, Pin Gao, and Ying-Ju Chen, "Fairness Regulation in Competitive Markets".
 
 Pin Gao, Xingyu Fu, Haoyu Liu, and Ying-Ju Chen "Add-Ons in Services", **Major Revision**.
+
+(†: I am the corresponding author)
