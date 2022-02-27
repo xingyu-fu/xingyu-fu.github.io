@@ -22,13 +22,15 @@ Business Analytics (e.g., om-marketing interface, platform economics, supply cha
 
 * * *
 ### Selected Research
-Xingyu Fu, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Mengqian Lu, “[When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?](https://www.researchgate.net/publication/353731289_When_Should_the_Regulator_AllowProhibit_Inter-Temporal_Transfer_of_Emission_Permits)”, Under Review.
+Xingyu Fu, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Mengqian Lu, “[When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?](https://www.researchgate.net/publication/353731289_When_Should_the_Regulator_AllowProhibit_Inter-Temporal_Transfer_of_Emission_Permits)”.
 - [POMS-HK 2022 Best Student Paper Award](https://www.ln.edu.hk/hkibs/pomshk2022/index.htm) (**Honorable Mention**).
 
 Xingyu Fu, Ying-Ju Chen, Guillermo Gallego and Pin Gao, “[Policy Implementation in the Presence of Platform-Retailer Conflict](https://www.researchgate.net/publication/351048835_Policy_Implementation_in_the_Presence_of_Platform-Retailer_Conflict)“, **R&R**.
 
-Xingyu Fu, Baozhuang Niu, Pin Gao, and Ying-Ju Chen "[Pre-Committed vs. Outcome-Based: Governmental Seed Provision with Farmer-Led Process Innovation](https://www.researchgate.net/publication/356831169_Pre-Committed_vs_Outcome-Based_Governmental_Seed_Provision_with_Farmer-Led_Process_Innovation)", Under Review.
+Xingyu Fu, Baozhuang Niu, Pin Gao, and Ying-Ju Chen "[Pre-Committed vs. Outcome-Based: Governmental Seed Provision with Farmer-Led Process Innovation](https://www.researchgate.net/publication/356831169_Pre-Committed_vs_Outcome-Based_Governmental_Seed_Provision_with_Farmer-Led_Process_Innovation)".
 
-Xingyu Fu, Pin Gao, Haoyu Liu, and Ying-Ju Chen "Optimal Job Assignment with Spillover Effect", Under Review.
+Xingyu Fu, Pin Gao, Haoyu Liu, and Ying-Ju Chen "Optimal Job Assignment with Spillover Effect".
+
+Zongsen Yang, Xingyu Fu†, Pin Gao, and Ying-Ju Chen, "Fairness Regulation in Competitive Markets".
 
 Pin Gao, Xingyu Fu, Haoyu Liu, and Ying-Ju Chen "Add-Ons in Services", **Major Revision**.
