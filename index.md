@@ -27,6 +27,6 @@ Xingyu Fu, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Mengqian Lu, “[When Sh
 
 Xingyu Fu, Ying-Ju Chen, Guillermo Gallego and Pin Gao, “[Policy Implementation in the Presence of Platform-Retailer Conflict](https://www.researchgate.net/publication/351048835_Policy_Implementation_in_the_Presence_of_Platform-Retailer_Conflict)“, **R&R**.
 
-Zongsen Yang, Xingyu Fu†, Pin Gao, and Ying-Ju Chen, "Fairness Regulation of Prices in Competitive Markets".
+Zongsen Yang, Xingyu Fu†, Pin Gao, and Ying-Ju Chen, "[Fairness Regulation of Prices in Competitive Markets](https://www.researchgate.net/publication/359046134_Fairness_Regulation_of_Prices_in_Competitive_Markets)".
 
 Xingyu Fu, Baozhuang Niu, Pin Gao, and Ying-Ju Chen "[Pre-Committed vs. Outcome-Based: Governmental Seed Provision with Farmer-Led Process Innovation](https://www.researchgate.net/publication/356831169_Pre-Committed_vs_Outcome-Based_Governmental_Seed_Provision_with_Farmer-Led_Process_Innovation)".
