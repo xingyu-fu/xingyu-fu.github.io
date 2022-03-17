@@ -22,7 +22,7 @@ Business Analytics (e.g., om-marketing interface, platform economics, supply cha
 
 * * *
 ### Selected Research
-[1] Xingyu Fu, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Mengqian Lu, "[When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?](https://www.researchgate.net/publication/353731289_When_Should_the_Regulator_AllowProhibit_Inter-Temporal_Transfer_of_Emission_Permits)".
+[1] Xingyu Fu, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Mengqian Lu, "[When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?](https://www.researchgate.net/publication/353731289_When_Should_the_Regulator_AllowProhibit_Inter-Temporal_Transfer_of_Emission_Permits)", **R&R**.
 - [POMS-HK 2022 Best Student Paper Award](https://www.ln.edu.hk/hkibs/pomshk2022/index.htm) (**Honorable Mention**).
 
 [2] Xingyu Fu, Ying-Ju Chen, Guillermo Gallego and Pin Gao, "[Policy Implementation in the Presence of Platform-Retailer Conflict](https://www.researchgate.net/publication/351048835_Policy_Implementation_in_the_Presence_of_Platform-Retailer_Conflict)", **R&R**.
