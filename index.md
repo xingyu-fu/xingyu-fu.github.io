@@ -15,7 +15,7 @@ Visiting Undergrad, Math & Econ, UC Berkeley, 2017 Spring.
 
 * * *
 ### Research Interest
-Socially Responsible Operations (e.g., environment, fairness, privacy)
+Socially-Responsible Operations (e.g., environment, fairness, privacy)
 
 Business Analytics (e.g., om-marketing interface, platform economics)
 
