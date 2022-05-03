@@ -18,17 +18,3 @@ Visiting Undergrad, Math & Econ, UC Berkeley, 2017 Spring.
 Socially-Responsible Operations (e.g., environment, fairness, privacy)
 
 Business Analytics (e.g., om-marketing interface, platform economics)
-
-
-* * *
-### Selected Research
-[1] Xingyu Fu, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Mengqian Lu, "[When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?](https://www.researchgate.net/publication/353731289_When_Should_the_Regulator_AllowProhibit_Inter-Temporal_Transfer_of_Emission_Permits)".
-- [POMS-HK 2022 Best Student Paper Award](https://www.ln.edu.hk/hkibs/pomshk2022/index.htm) (**Honorable Mention**).
-
-[2] Xingyu Fu, Ying-Ju Chen, Guillermo Gallego and Pin Gao, "[Policy Implementation in the Presence of Platform-Retailer Conflict](https://www.researchgate.net/publication/351048835_Policy_Implementation_in_the_Presence_of_Platform-Retailer_Conflict)".
-
-[3†] Zongsen Yang, Xingyu Fu, Pin Gao, and Ying-Ju Chen, "[Fairness Regulation of Prices in Competitive Markets](https://www.researchgate.net/publication/359046134_Fairness_Regulation_of_Prices_in_Competitive_Markets)".
-
-[4*] Ningyuan Chen, Xingyu Fu, Pin Gao, and Yang Li, "Privacy-Preserving Recommender System".
-
-[5] Xingyu Fu, Baozhuang Niu, Pin Gao, and Ying-Ju Chen "[Pre-Committed vs. Outcome-Based: Governmental Seed Provision with Farmer-Led Process Innovation](https://www.researchgate.net/publication/356831169_Pre-Committed_vs_Outcome-Based_Governmental_Seed_Provision_with_Farmer-Led_Process_Innovation)".
