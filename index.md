@@ -14,3 +14,9 @@ Visiting Undergrad, Math & Econ, UC Berkeley, 2017 Spring.
 * * *
 ### Research Interest
 Socially-Responsible Operations, Digital Economics, OM-Marketing Interface
+
+* * *
+### Selected Research
+[1] [Privacy-Preserving Personalized Recommender Systems](https://www.researchgate.net/publication/363364152_Privacy-Preserving_Personalized_Recommender_Systems), with Ningyuan Chen, Pin Gao and Yang Li.
+
+[2] [Fairness Regulation of Prices in Competitive Markets](https://www.researchgate.net/publication/359046134_Fairness_Regulation_of_Prices_in_Competitive_Markets), with Zongsen Yang, Pin Gao and Ying-Ju Chen.
