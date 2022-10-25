@@ -21,4 +21,4 @@ Socially-Responsible Operations, Digital Economics, OM-Marketing Interface
 
 [2] [Fairness Regulation of Prices in Competitive Markets](https://www.researchgate.net/publication/359046134_Fairness_Regulation_of_Prices_in_Competitive_Markets), with Zongsen Yang, Pin Gao and Ying-Ju Chen.
 
-[3] [Free Add-Ons in Services](https://pubsonline.informs.org/doi/abs/10.1287/serv.2022.0307), with Pin Gao, Haoyu Liu, and Ying-Ju Chen, *Service Science*.
+[3] [Free Add-Ons in Services](https://pubsonline.informs.org/doi/abs/10.1287/serv.2022.0307), with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service Science**.
