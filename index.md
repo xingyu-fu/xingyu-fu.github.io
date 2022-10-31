@@ -19,8 +19,10 @@ Socially-Responsible Operations, Digital Economics, OM-Marketing Interface
 
 * * *
 ### Selected Research
-[1] [Privacy-Preserving Personalized Recommender Systems](https://www.researchgate.net/publication/363364152_Privacy-Preserving_Personalized_Recommender_Systems), with Ningyuan Chen, Pin Gao and Yang Li.
+[1] [When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?](https://www.researchgate.net/publication/353731289_When_Should_the_Regulator_AllowProhibit_Inter-Temporal_Transfer_of_Emission_Permits), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu.
 
-[2] [Fairness Regulation of Prices in Competitive Markets](https://www.researchgate.net/publication/359046134_Fairness_Regulation_of_Prices_in_Competitive_Markets), with Zongsen Yang, Pin Gao and Ying-Ju Chen.
+[2] [Privacy-Preserving Personalized Recommender Systems](https://www.researchgate.net/publication/363364152_Privacy-Preserving_Personalized_Recommender_Systems), with Ningyuan Chen, Pin Gao and Yang Li.
 
-[3] [Free Add-Ons in Services](https://pubsonline.informs.org/doi/abs/10.1287/serv.2022.0307), with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service Science**.
+[3] [Fairness Regulation of Prices in Competitive Markets](https://www.researchgate.net/publication/359046134_Fairness_Regulation_of_Prices_in_Competitive_Markets), with Zongsen Yang, Pin Gao and Ying-Ju Chen.
+
+[4] [Free Add-Ons in Services](https://pubsonline.informs.org/doi/abs/10.1287/serv.2022.0307), with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service Science**.
