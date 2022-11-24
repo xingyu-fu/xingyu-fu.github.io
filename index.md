@@ -15,11 +15,11 @@ Visiting Undergrad, Math & Econ, UC Berkeley, 2017 Spring.
 
 * * *
 ### Research Interest
-Socially-Responsible Operations, Economics of Data and AI
+Socially-Responsible Operations, Revenue Management
 
 * * *
 ### Selected Research
-[1] [When Should the Regulator Allow/Prohibit Inter-Temporal Transfer of Emission Permits?](https://www.researchgate.net/publication/353731289_When_Should_the_Regulator_AllowProhibit_Inter-Temporal_Transfer_of_Emission_Permits), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu.
+[1] [Temporal Flexibility in Emission Permits Regulation](https://www.researchgate.net/publication/353731289_When_Should_the_Regulator_AllowProhibit_Inter-Temporal_Transfer_of_Emission_Permits), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu.
 
 [2] [Privacy-Preserving Personalized Recommender Systems](https://www.researchgate.net/publication/363364152_Privacy-Preserving_Personalized_Recommender_Systems), with Ningyuan Chen, Pin Gao and Yang Li.
 
