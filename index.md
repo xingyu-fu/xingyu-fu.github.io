@@ -19,11 +19,11 @@ Socially-Responsible Operations, Revenue Management
 
 * * *
 ### Selected Research
-[1] [Temporal Flexibility in Emission Permits Regulation](https://www.researchgate.net/publication/353731289_When_Should_the_Regulator_AllowProhibit_Inter-Temporal_Transfer_of_Emission_Permits), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu.
+[1] [Temporal Flexibility in Emission Permits Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu.
 
-[2] [Privacy-Preserving Personalized Recommender Systems](https://www.researchgate.net/publication/363364152_Privacy-Preserving_Personalized_Recommender_Systems), with Ningyuan Chen, Pin Gao and Yang Li.
+[2] [Privacy-Preserving Personalized Recommender Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao and Yang Li.
 
-[3] [Fairness Regulation of Prices in Competitive Markets](https://www.researchgate.net/publication/359046134_Fairness_Regulation_of_Prices_in_Competitive_Markets), with Zongsen Yang, Pin Gao and Ying-Ju Chen.
+[3] [Fairness Regulation of Prices in Competitive Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), with Zongsen Yang, Pin Gao and Ying-Ju Chen.
 
 [4] Selling New Product to Rationally (In)attentive Consumer, with Zheng Xie and Ying-Ju Chen.
 
