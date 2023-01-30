@@ -20,7 +20,7 @@ Socially-Responsible Operations, Revenue Management, Business Analytics
 * * *
 ### Selected Research
 [Temporal Flexibility in Emission Permits Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu.
-- _POMS-Hong Kong 2022 Best Student Paper Award (Honorable Mention); POMS-China 2022 Best Student Paper Award (Second Place)
+- _POMS-Hong Kong 2022 Best Student Paper Award (Honorable Mention); POMS-China 2022 Best Student Paper Award (Second Place)_
 
 [Acquisition or Extortion? Policy Implementation by a Powerful Principal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733), with Ying-Ju Chen, Guillermo Gallego, and Pin Gao.
 
