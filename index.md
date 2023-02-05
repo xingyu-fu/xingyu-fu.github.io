@@ -26,7 +26,7 @@ Socially-Responsible Operations, Revenue Management, Business Analytics
 
 [Privacy-Preserving Personalized Recommender Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao and Yang Li.
 
-Selling New Product to Rationally (In)attentive Consumer, with Zheng Xie and Ying-Ju Chen.
+[Selling New Product to Rationally (In)attentive Consumer](https://www.researchgate.net/publication/368286353_Selling_New_Product_to_Rationally_Inattentive_Consumer), with Zheng Xie and Ying-Ju Chen.
 
 [Fairness Regulation of Prices in Competitive Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), with Zongsen Yang, Pin Gao and Ying-Ju Chen.
 
