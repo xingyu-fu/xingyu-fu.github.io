@@ -22,7 +22,7 @@ Socially-Responsible Operations, Digital Economy, Supply Chain Management, Reven
 [Temporal Flexibility in Emission Permits Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu.
 - _POMS-Hong Kong 2022 Best Student Paper Award (Honorable Mention); POMS-China 2022 Best Student Paper Award (Second Place)_
 
-[Fairness Regulation of Prices in Competitive Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Major** Revision after 2 Rounds of Review at Manufacturing & Service Operations Management.
+[Fairness Regulation of Prices in Competitive Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Major** Revision after 2 Rounds of Review at **Manufacturing & Service Operations Management**.
 
 [Privacy-Preserving Personalized Recommender Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao and Yang Li.
 
@@ -30,4 +30,4 @@ Socially-Responsible Operations, Digital Economy, Supply Chain Management, Reven
 
 [Acquisition or Extortion? Policy Implementation by a Powerful Principal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733), with Ying-Ju Chen, Guillermo Gallego, and Pin Gao.
 
-[Free Add-Ons in Services](https://pubsonline.informs.org/doi/abs/10.1287/serv.2022.0307), with Pin Gao, Haoyu Liu, and Ying-Ju Chen, Service Science 14(4):292-306.
+[Free Add-Ons in Services](https://pubsonline.informs.org/doi/abs/10.1287/serv.2022.0307), with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service Science** 14(4):292-306.
