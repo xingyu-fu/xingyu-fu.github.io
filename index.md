@@ -7,7 +7,7 @@ _Yea, though I walk through the valley of the shadow of death, I will fear no ev
 * * *
 ### Education
 Ph.D., Operations Management, HKUST, 2020.02-present.
-- Advisors: [Ying-Ju Chen](https://imchen.people.ust.hk/) and [Guillermo Gallego](https://ieda.ust.hk/dfaculty/ggallego/).
+- Advisors: [Ying-Ju Chen](https://imchen.people.ust.hk/), [Guillermo Gallego](https://ieda.ust.hk/dfaculty/ggallego/) and [Pin Gao](https://myweb.cuhk.edu.cn/gaopin/Home/Index).
 
 B.Sc., Math, Sun Yat-sen University, 2015-2019.
 
@@ -26,8 +26,10 @@ Socially-Responsible Operations, Digital Economy, Supply Chain Management, Reven
 
 [Privacy-Preserving Personalized Recommender Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao and Yang Li.
 
+[Acquisition or Extortion? Policy Implementation by a Powerful Principal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733), with Ying-Ju Chen, Guillermo Gallego, and Pin Gao.
+
 [Selling New Product to Rationally (In)attentive Consumer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4353325), with Zheng Xie and Ying-Ju Chen.
 
-[Acquisition or Extortion? Policy Implementation by a Powerful Principal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733), with Ying-Ju Chen, Guillermo Gallego, and Pin Gao.
+When to Conceal/Disclose Attribute Information? Roles of Consumer Search, Inventory, and Selling Mechanisms, with Zihao Chen, Pin Gao and Ying-Ju Chen.
 
 [Free Add-Ons in Services](https://pubsonline.informs.org/doi/abs/10.1287/serv.2022.0307), with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service Science** 14(4):292-306.
