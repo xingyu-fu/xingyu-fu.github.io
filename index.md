@@ -24,12 +24,12 @@ Socially-Responsible Operations, Digital Economy, Supply Chain Management, Reven
 
 [Fairness Regulation of Prices in Competitive Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Major** Revision after 2 Rounds of Review at **Manufacturing & Service Operations Management**.
 
-[Privacy-Preserving Personalized Recommender Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao and Yang Li.
+[Differentially-Private Personalized Product Recommendations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao and Yang Li.
 
-[Acquisition or Extortion? Policy Implementation by a Powerful Principal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733), with Ying-Ju Chen, Guillermo Gallego, and Pin Gao.
+When to Conceal/Disclose Attribute Information? Roles of Consumer Search, Inventory, and Selling Mechanisms, with Zihao Chen, Pin Gao and Ying-Ju Chen.
 
 [Selling New Product to Rationally (In)attentive Consumer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4353325), with Zheng Xie and Ying-Ju Chen.
 
-When to Conceal/Disclose Attribute Information? Roles of Consumer Search, Inventory, and Selling Mechanisms, with Zihao Chen, Pin Gao and Ying-Ju Chen.
+[Acquisition or Extortion? Policy Implementation by a Powerful Principal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733), with Ying-Ju Chen, Guillermo Gallego, and Pin Gao.
 
 [Free Add-Ons in Services](https://pubsonline.informs.org/doi/abs/10.1287/serv.2022.0307), with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service Science** 14(4):292-306.
