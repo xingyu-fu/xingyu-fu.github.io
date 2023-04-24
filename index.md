@@ -26,7 +26,7 @@ Socially-Responsible Operations, Digital Economy, Supply Chain Management, Reven
 
 [Differentially-Private Personalized Product Recommendations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao and Yang Li.
 
-When to Conceal/Disclose Attribute Information? Roles of Consumer Search, Inventory, and Selling Mechanisms, with Zihao Chen, Pin Gao and Ying-Ju Chen.
+When to Conceal/Disclose Attribute Information? The Roles of Consumer Search, Inventory, and Selling Mechanisms, with Zihao Chen, Pin Gao and Ying-Ju Chen.
 
 [Selling New Product to Rationally (In)attentive Consumer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4353325), with Zheng Xie and Ying-Ju Chen.
 
