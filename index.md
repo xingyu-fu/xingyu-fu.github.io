@@ -19,14 +19,14 @@ Socially-Responsible Operations, Information and Digital Economy, Mechanism Desi
 
 * * *
 ### Selected Research
+[Fairness Regulation of Prices in Competitive Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Major** Revision after 2 Rounds of Review at **Manufacturing & Service Operations Management**.
+
 [Temporal Flexibility in Emission Permits Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu.
 - _POMS-Hong Kong 2022 Best Student Paper Award (Honorable Mention); POMS-China 2022 Best Student Paper Award (Second Place)_
 
-[Fairness Regulation of Prices in Competitive Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Major** Revision after 2 Rounds of Review at **Manufacturing & Service Operations Management**.
-
 [Differentially-Private Personalized Product Recommendations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao and Yang Li.
 
-When to Conceal/Disclose Attribute Information? The Roles of Consumer Search, Inventory, and Selling Mechanisms, with Zihao Chen, Pin Gao and Ying-Ju Chen.
+Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Selling Mechanisms, with Zihao Chen, Pin Gao and Ying-Ju Chen.
 
 [Selling New Product to Rationally (In)attentive Consumer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4353325), with Zheng Xie and Ying-Ju Chen.
 
