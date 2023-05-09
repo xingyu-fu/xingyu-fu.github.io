@@ -19,7 +19,7 @@ Socially-Responsible Operations, Information and Digital Economy, Mechanism Desi
 
 * * *
 ### Selected Research
-[Fairness Regulation of Prices in Competitive Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Major** Revision after 2 Rounds of Review at **Manufacturing & Service Operations Management**.
+[Fairness Regulation of Prices in Competitive Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Major Revision** after 2 Rounds of Review at **Manufacturing & Service Operations Management**.
 
 [Temporal Flexibility in Emission Permits Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu.
 - _POMS-Hong Kong 2022 Best Student Paper Award (Honorable Mention); POMS-China 2022 Best Student Paper Award (Second Place)_
