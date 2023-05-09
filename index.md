@@ -25,6 +25,7 @@ Socially-Responsible Operations, Information and Digital Economy, Mechanism Desi
 - _POMS-Hong Kong 2022 Best Student Paper Award (Honorable Mention); POMS-China 2022 Best Student Paper Award (Second Place)_
 
 [Differentially-Private Personalized Product Recommendations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao and Yang Li.
+- _Accepted for Presentation at the 2023 Main MSOM Conference at Montreal_
 
 [Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Selling Mechanisms](https://www.researchgate.net/publication/370596076_Sound_of_Silence_When_to_Conceal_Attribute_Information_The_Roles_of_Consumer_Search_Inventory_and_Selling_Mechanisms), with Zihao Chen, Pin Gao and Ying-Ju Chen.
 
