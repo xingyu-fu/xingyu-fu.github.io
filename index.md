@@ -23,7 +23,7 @@ Socially-Responsible Operations, Information and Digital Economy, Mechanism Desi
 - _Accepted at the 2023 Main MSOM Conference at Montreal_
 
 
-[Differentially-Private Personalized Product Recommendations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao and Yang Li.
+[Privacy-Preserving Personalized Recommender Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao and Yang Li.
 - _Accepted at the 2023 Main MSOM Conference at Montreal_
 
 
