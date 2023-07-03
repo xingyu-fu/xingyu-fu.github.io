@@ -14,7 +14,7 @@ B.Sc., Math, Sun Yat-sen University, 2015-2019.
 Visiting Undergrad, Math & Econ, UC Berkeley, 2017 Spring.
 
 * * *
-### Research Interest
+### Research Interests
 Socially-Responsible Operations; Sustainable Operations; Economics of Information, Digitization, and Artificial Intelligence
 
 * * *
