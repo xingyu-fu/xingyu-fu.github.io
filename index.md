@@ -15,15 +15,15 @@ Visiting Undergrad, Math & Econ, UC Berkeley, 2017 Spring.
 
 * * *
 ### Research Interest
-Socially-Responsible Operations, Information and Digital Economy, Mechanism Design
+Socially-Responsible Operations; Sustainable Operations; Economics of Information, Digitization, and Artificial Intelligence
 
 * * *
 ### Selected Research
-[Fairness Regulation of Prices in Competitive Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Major Revision** after 2 Rounds of Review at **Manufacturing & Service Operations Management**.
+[Fairness Regulation of Prices in Competitive Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Minor Revision** after 3 Rounds of Review at **Manufacturing & Service Operations Management**.
 - _Accepted at the 2023 INFORMS MSOM Conference in Montreal_
 
 
-[Privacy-Preserving Personalized Recommender Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao and Yang Li.
+[Privacy-Preserving Personalized Recommender Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao, and Yang Li.
 - _Accepted at the 2023 INFORMS MSOM Conference in Montreal_
 
 
@@ -34,7 +34,7 @@ Socially-Responsible Operations, Information and Digital Economy, Mechanism Desi
 [Selling New Product to Rationally (In)attentive Consumer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4353325), with Zheng Xie and Ying-Ju Chen, **R&R** at **Manufacturing & Service Operations Management**.
 
 
-[Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Selling Mechanisms](https://www.researchgate.net/publication/370596076_Sound_of_Silence_When_to_Conceal_Attribute_Information_The_Roles_of_Consumer_Search_Inventory_and_Selling_Mechanisms), with Zihao Chen, Pin Gao and Ying-Ju Chen.
+[Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Selling Mechanisms](https://www.researchgate.net/publication/370596076_Sound_of_Silence_When_to_Conceal_Attribute_Information_The_Roles_of_Consumer_Search_Inventory_and_Selling_Mechanisms), with Zihao Chen, Pin Gao, and Ying-Ju Chen.
 
 
 [Acquisition or Extortion? Policy Implementation by a Powerful Principal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733), with Ying-Ju Chen, Guillermo Gallego, and Pin Gao.
