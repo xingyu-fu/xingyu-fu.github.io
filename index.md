@@ -7,7 +7,7 @@ _Yea, though I walk through the valley of the shadow of death, I will fear no ev
 * * *
 ### Education
 Ph.D., Operations Management, HKUST, 2020.02-present.
-- Advisors: [Ying-Ju Chen](https://imchen.people.ust.hk/), [Guillermo Gallego](https://ieda.ust.hk/dfaculty/ggallego/) and [Pin Gao](https://myweb.cuhk.edu.cn/gaopin/Home/Index).
+- Advisors: [Ying-Ju Chen](https://imchen.people.ust.hk/), [Guillermo Gallego](https://ieda.ust.hk/dfaculty/ggallego/), and [Pin Gao](https://myweb.cuhk.edu.cn/gaopin/Home/Index).
 
 B.Sc., Math, Sun Yat-sen University, 2015-2019.
 
