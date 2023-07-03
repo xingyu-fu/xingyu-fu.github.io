@@ -7,7 +7,7 @@ _Yea, though I walk through the valley of the shadow of death, I will fear no ev
 * * *
 ### Education
 Ph.D., Operations Management, HKUST, 2020.02-present.
-- Advisors: [Ying-Ju Chen](https://imchen.people.ust.hk/) and [Guillermo Gallego](https://ieda.ust.hk/dfaculty/ggallego/).
+- Advisors: [Ying-Ju Chen](https://imchen.people.ust.hk/), [Guillermo Gallego](https://ieda.ust.hk/dfaculty/ggallego/) and [Pin Gao](https://myweb.cuhk.edu.cn/gaopin/Home/Index).
 
 B.Sc., Math, Sun Yat-sen University, 2015-2019.
 
@@ -27,12 +27,12 @@ Socially-Responsible Operations; Sustainable Operations; Economics of Informatio
 - _Accepted at the 2023 INFORMS MSOM Conference in Montréal_
 
 
-[Temporal Flexibility in Emission Permits Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu.
-- _POMS-Hong Kong 2022 Best Student Paper Award (Honorable Mention); POMS-China 2022 Best Student Paper Award (Second Place)_
-
-
 [Privacy-Preserving Personalized Recommender Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao, and Yang Li.
 - _Accepted at the 2023 INFORMS MSOM Conference in Montréal_
+
+
+[Temporal Flexibility in Emission Permits Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu.
+- _POMS-Hong Kong 2022 Best Student Paper Award (Honorable Mention); POMS-China 2022 Best Student Paper Award (Second Place)_
 
 
 [Selling New Product to Rationally (In)attentive Consumer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4353325), with Zheng Xie and Ying-Ju Chen, **R&R** at **Manufacturing & Service Operations Management**.
