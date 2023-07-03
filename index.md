@@ -24,7 +24,7 @@ Socially-Responsible Operations; Sustainable Operations; Economics of Informatio
 * * *
 ### Working Papers
 [Fairness Regulation of Prices in Competitive Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Minor Revision** at **Manufacturing & Service Operations Management** after 3 Rounds of Review.
-- _Accepted at the 2023 INFORMS MSOM Conference in Montreal_
+- _Accepted at the 2023 INFORMS MSOM Conference in Montréal_
 
 
 [Temporal Flexibility in Emission Permits Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu.
@@ -32,7 +32,7 @@ Socially-Responsible Operations; Sustainable Operations; Economics of Informatio
 
 
 [Privacy-Preserving Personalized Recommender Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao, and Yang Li.
-- _Accepted at the 2023 INFORMS MSOM Conference in Montreal_
+- _Accepted at the 2023 INFORMS MSOM Conference in Montréal_
 
 
 [Selling New Product to Rationally (In)attentive Consumer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4353325), with Zheng Xie and Ying-Ju Chen, **R&R** at **Manufacturing & Service Operations Management**.
