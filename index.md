@@ -37,7 +37,7 @@ Socially-Responsible & Sustainable Operations; Operations-Marketing Interface; E
 
 [Selling New Product to Rationally (In)attentive Consumer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4353325), with Zheng Xie and Ying-Ju Chen, **R&R** at **Manufacturing & Service Operations Management**.
 
-Optimal Job Assignment with Spillover Effects, with Haoyu Liu, Pin Gao, and Ying-Ju Chen, **Major Revision** at **Naval Research Logistics**.
+Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Major Revision** at **Naval Research Logistics**.
 
 
 [Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Selling Mechanisms](https://www.researchgate.net/publication/370596076_Sound_of_Silence_When_to_Conceal_Attribute_Information_The_Roles_of_Consumer_Search_Inventory_and_Selling_Mechanisms), with Zihao Chen, Pin Gao, and Ying-Ju Chen.
