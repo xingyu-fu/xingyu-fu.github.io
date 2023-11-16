@@ -43,3 +43,6 @@ Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying
 
 
 [Acquisition or Extortion? Policy Implementation by a Powerful Principal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733), with Ying-Ju Chen, Guillermo Gallego, and Pin Gao.
+
+
+Discriminatory Pricing in Queuing Systems: The Curse of Non-Transparency, with Zihao Chen and Ying-Ju Chen.
