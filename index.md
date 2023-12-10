@@ -12,7 +12,7 @@ School of Marketing, UNSW Business School, University of New South Wales (UNSW S
 * * *
 ### Education
 Ph.D., Operations Management, HKUST, 2020.02-present
-- Advisors: [Ying-Ju Chen](https://imchen.people.ust.hk/), [Guillermo Gallego](https://ieda.ust.hk/dfaculty/ggallego/), and [Pin Gao](https://sites.google.com/view/pin-gao).
+- Advisors: [Ying-Ju Chen](https://imchen.people.ust.hk/), [Guillermo Gallego](https://ieda.ust.hk/dfaculty/ggallego/), and [Pin Gao](https://sites.google.com/view/pin-gao)
 
 B.Sc., Math, Sun Yat-sen University, 2015-2019
 
@@ -20,7 +20,7 @@ Visiting Undergrad, Math & Econ, UC Berkeley, 2017 Spring
 
 * * *
 ### Research Interests
-Socially-Responsible & Sustainable Operations; Marketing-Operations Interface; Economics of Information, Digitization, and Artificial Intelligence.
+Socially Responsible & Sustainable Operations; Marketing-Operations Interface; Economics of Information, Digitization, and Artificial Intelligence.
 
 * * *
 ### Publications
