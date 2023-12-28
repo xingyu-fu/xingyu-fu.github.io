@@ -28,7 +28,7 @@ Socially Responsible & Sustainable Operations; Marketing-Operations Interface; E
 
 * * *
 ### Working Papers
-[Fairness Regulation of Prices in Competitive Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Minor Revision** at **Manufacturing & Service Operations Management** after 3 Rounds of Review.
+[Fairness Regulation of Prices in Competitive Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), with Zongsen Yang, Pin Gao, and Ying-Ju Chen, Under 4th Round Review at **Manufacturing & Service Operations Management** after **Minor Revision**.
 
 
 [Temporal Flexibility in Emission Permits Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, **Major Revision** at **Manufacturing & Service Operations Management** after 1 Round of Review.
@@ -44,7 +44,7 @@ Socially Responsible & Sustainable Operations; Marketing-Operations Interface; E
 [Selling New Product to Rationally (In)attentive Consumer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4353325), with Zheng Xie and Ying-Ju Chen, **R&R** at **Manufacturing & Service Operations Management**.
 
 
-Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Major Revision** at **Naval Research Logistics**.
+Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, Under 2nd Round Review at **Naval Research Logistics** after **Major Revision**.
 
 
 [Acquisition or Extortion? Policy Implementation by a Powerful Principal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733), with Ying-Ju Chen, Guillermo Gallego, and Pin Gao.
