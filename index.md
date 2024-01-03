@@ -31,7 +31,7 @@ Socially Responsible & Sustainable Operations; Marketing-Operations Interface; E
 [Fairness Regulation of Prices in Competitive Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), with Zongsen Yang, Pin Gao, and Ying-Ju Chen, Under 4th Round Review at **Manufacturing & Service Operations Management** after **Minor Revision**.
 
 
-[Temporal Flexibility in Emission Permits Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, **Major Revision** at **Manufacturing & Service Operations Management** after 1 Round of Review.
+[Temporal Flexibility in Emission Permits Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, Under 2nd Round Review at **Manufacturing & Service Operations Management** after **Major Revision**.
 - _POMS-Hong Kong 2022 Best Student Paper Award (Honorable Mention); POMS-China 2022 Best Student Paper Award (Second Place)_
 
 
