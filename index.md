@@ -49,4 +49,4 @@ Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying
 [Selling New Product to Rationally (In)attentive Consumer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4353325), with Zheng Xie and Ying-Ju Chen.
 
 
-[Discriminatory Pricing in Queuing Systems: The Curse of Non-Transparency](https://www.researchgate.net/publication/375800188_Discriminatory_Pricing_in_Queuing_Systems_The_Curse_of_Non-Transparency), with Zihao Chen and Ying-Ju Chen.
+[Discriminatory Pricing in Service Systems: The Curse of Non-Transparency](https://www.researchgate.net/publication/375800188_Discriminatory_Pricing_in_Queuing_Systems_The_Curse_of_Non-Transparency), with Zihao Chen, Yun Zhang, and Ying-Ju Chen.
