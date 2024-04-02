@@ -30,7 +30,7 @@ Socially Responsible & Sustainable Operations; Marketing-Operations Interface; E
 
 * * *
 ### Working Papers
-[Temporal Flexibility in Emission Permits Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, Under 2nd Round Review at **Manufacturing & Service Operations Management** after **Major Revision**.
+[Temporal Flexibility in Emission Permits Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, **Major Revision** at **Manufacturing & Service Operations Management** after 2 Rounds of Review.
 - _POMS-Hong Kong 2022 Best Student Paper Award (Honorable Mention); POMS-China 2022 Best Student Paper Award (Second Place)_
 
 
