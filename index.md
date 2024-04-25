@@ -30,14 +30,14 @@ Socially Responsible & Sustainable Operations; Marketing-Operations Interface; E
 
 * * *
 ### Working Papers
+[Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Channel Structure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4633817), with Zihao Chen, Pin Gao, and Ying-Ju Chen, Under 2nd Round Review at **Manufacturing & Service Operations Management** after **Major Revision**.
+
+
 [Temporal Flexibility in Emission Permits Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, **Major Revision** at **Manufacturing & Service Operations Management** after 2 Rounds of Review.
 - _POMS-Hong Kong 2022 Best Student Paper Award (Honorable Mention); POMS-China 2022 Best Student Paper Award (Second Place)_
 
 
 [Privacy-Preserving Personalized Recommender Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao, and Yang Li, **Major Revision** at **Manufacturing & Service Operations Management** after 1 Round of Review.
-
-
-[Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Selling Mechanisms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4633817), with Zihao Chen, Pin Gao, and Ying-Ju Chen, Under 2nd Round Review after **Major Revision** at **Manufacturing & Service Operations Management**.
 
 
 Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, Under 2nd Round Review at **Naval Research Logistics** after **Major Revision**.
