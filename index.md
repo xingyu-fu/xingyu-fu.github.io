@@ -44,10 +44,11 @@ Socially Responsible & Sustainable Operations; Marketing-Operations Interface; E
 Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, Under 2nd Round Review at **Naval Research Logistics** after **Major Revision**.
 
 
+[Discriminatory Pricing in Service Systems: The Curse of Non-Transparency](https://www.researchgate.net/publication/375800188_Discriminatory_Pricing_in_Queuing_Systems_The_Curse_of_Non-Transparency), with Zihao Chen, Yun Zhang, and Ying-Ju Chen.
+
+
 [Acquisition or Extortion? Policy Implementation by a Powerful Principal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733), with Ying-Ju Chen, Guillermo Gallego, and Pin Gao.
 
 
 [Selling New Product to Rationally (In)attentive Consumer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4353325), with Zheng Xie and Ying-Ju Chen.
 
-
-[Discriminatory Pricing in Service Systems: The Curse of Non-Transparency](https://www.researchgate.net/publication/375800188_Discriminatory_Pricing_in_Queuing_Systems_The_Curse_of_Non-Transparency), with Zihao Chen, Yun Zhang, and Ying-Ju Chen.
