@@ -11,7 +11,7 @@ School of Marketing, UNSW Business School, University of New South Wales, Sydney
 
 * * *
 ### Education
-Ph.D., Operations Management, HKUST, 2020.02-2024.05
+Ph.D., Operations Management, HKUST, 2020.02-2024.06
 - Advisors: [Ying-Ju Chen](https://imchen.people.ust.hk/), [Guillermo Gallego](https://ieda.ust.hk/dfaculty/ggallego/), and [Pin Gao](https://sites.google.com/view/pin-gao)
 
 B.Sc., Math, Sun Yat-sen University, 2015.09-2019.06
