@@ -46,6 +46,9 @@ Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying
 [Discriminatory Pricing in Service Systems: The Curse of Non-Transparency](https://www.researchgate.net/publication/375800188_Discriminatory_Pricing_in_Queuing_Systems_The_Curse_of_Non-Transparency), with Zihao Chen, Yun Zhang, and Ying-Ju Chen.
 
 
+Managing Algorithm Manipulation via Human-AI Collaboration, with Jiexin Zheng and Jiali Zhou.
+
+
 [Acquisition or Extortion? Policy Implementation by a Powerful Principal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733), with Ying-Ju Chen, Guillermo Gallego, and Pin Gao.
 
 
