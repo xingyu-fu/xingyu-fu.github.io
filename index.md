@@ -40,7 +40,7 @@ Socially Responsible & Sustainable Operations; Marketing-Operations Interface; E
 [Privacy-Preserving Personalized Recommender Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao, and Yang Li, **Major Revision** at **Manufacturing & Service Operations Management** after 1 Round of Review.
 
 
-Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, Under **Major Revision** at **Naval Research Logistics** after 2nd Round Review.
+Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Major Revision** at **Naval Research Logistics** after 2 Rounds of Review.
 
 
 [Discriminatory Pricing in Service Systems: The Curse of Non-Transparency](https://www.researchgate.net/publication/375800188_Discriminatory_Pricing_in_Queuing_Systems_The_Curse_of_Non-Transparency), with Zihao Chen, Yun Zhang, and Ying-Ju Chen.
