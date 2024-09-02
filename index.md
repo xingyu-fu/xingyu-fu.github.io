@@ -24,33 +24,33 @@ Socially Responsible & Sustainable Operations; Marketing-Operations Interface; E
 
 * * *
 ### Publications
-Fairness Regulation of Prices in Competitive Markets, with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Forthcoming** at **Manufacturing & Service Operations Management** [[M&SOM Link]](https://pubsonline.informs.org/doi/10.1287/msom.2022.0552), [[SSRN Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), [[Media Coverage]](https://www.unsw.edu.au/newsroom/news/2024/09/how-banning-loyalty-penalties-can-help---or-hurt---consumers).
+Fairness Regulation of Prices in Competitive Markets, with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Forthcoming** at **M&SOM** [[M&SOM]](https://pubsonline.informs.org/doi/10.1287/msom.2022.0552), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), [[Media Coverage]](https://www.unsw.edu.au/newsroom/news/2024/09/how-banning-loyalty-penalties-can-help---or-hurt---consumers).
 
-Free Add-Ons in Services, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service Science** 14(4):292-306 [[SerSci Link]](https://pubsonline.informs.org/doi/abs/10.1287/serv.2022.0307).
+Free Add-Ons in Services, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service Science** 14(4):292-306 [[ServSci]](https://pubsonline.informs.org/doi/abs/10.1287/serv.2022.0307).
 
 * * *
 ### Working Papers
-[Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Channel Structure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4633817), with Zihao Chen, Pin Gao, and Ying-Ju Chen, **Minor Revision** at **Manufacturing & Service Operations Management** after 2 Rounds of Review.
+Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Channel Structure, with Zihao Chen, Pin Gao, and Ying-Ju Chen, **Minor Revision** at **M&SOM** after 2 Rounds of Review [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4633817).
 
 
-[Temporal Flexibility in Emission Permits Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, **Major Revision** at **Manufacturing & Service Operations Management** after 2 Rounds of Review.
+Temporal Flexibility in Emission Permits Regulation, with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, **Major Revision** at **M&SOM** after 2 Rounds of Review [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094).
 - _POMS-Hong Kong 2022 Best Student Paper Award (Honorable Mention); POMS-China 2022 Best Student Paper Award (Second Place)_
 
 
-[Privacy-Preserving Personalized Recommender Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), with Ningyuan Chen, Pin Gao, and Yang Li, **Major Revision** at **Manufacturing & Service Operations Management** after 1 Round of Review.
+Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, **Major Revision** at **M&SOM** after 1 Round of Review [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576).
 
 
 Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Major Revision** at **Naval Research Logistics** after 2 Rounds of Review.
 
 
-[Discriminatory Pricing in Service Systems: The Curse of Non-Transparency](https://www.researchgate.net/publication/375800188_Discriminatory_Pricing_in_Queuing_Systems_The_Curse_of_Non-Transparency), with Zihao Chen, Yun Zhang, and Ying-Ju Chen.
+Discriminatory Pricing in Service Systems: The Curse of Non-Transparency, with Zihao Chen, Yun Zhang, and Ying-Ju Chen.
 
 
 Managing Algorithm Manipulation by Human-AI Collaboration, with Jiexin Zheng and Jiali Zhou.
 
 
-[Acquisition or Extortion? Policy Implementation by a Powerful Principal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733), with Ying-Ju Chen, Guillermo Gallego, and Pin Gao.
+Acquisition or Extortion? Policy Implementation by a Powerful Principal, with Ying-Ju Chen, Guillermo Gallego, and Pin Gao [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733).
 
 
-[Selling New Product to Rationally (In)attentive Consumer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4353325), with Zheng Xie and Ying-Ju Chen.
+Selling New Product to Rationally (In)attentive Consumer, with Zheng Xie and Ying-Ju Chen [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4353325).
 
