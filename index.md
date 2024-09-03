@@ -24,7 +24,7 @@ Socially Responsible & Sustainable Operations; Marketing-Operations Interface; E
 
 * * *
 ### Publications
-Fairness Regulation of Prices in Competitive Markets, with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Forthcoming** at **M&SOM** [[M&SOM]](https://pubsonline.informs.org/doi/10.1287/msom.2022.0552), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), [[Media Coverage]](https://www.unsw.edu.au/newsroom/news/2024/09/how-banning-loyalty-penalties-can-help---or-hurt---consumers).
+Fairness Regulation of Prices in Competitive Markets, with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Forthcoming** at **M&SOM** [[M&SOM]](https://pubsonline.informs.org/doi/10.1287/msom.2022.0552), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), [[UNSW Newsroom]](https://www.unsw.edu.au/newsroom/news/2024/09/how-banning-loyalty-penalties-can-help---or-hurt---consumers).
 
 Free Add-Ons in Services, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service Science** 14(4):292-306 [[ServSci]](https://pubsonline.informs.org/doi/abs/10.1287/serv.2022.0307).
 
