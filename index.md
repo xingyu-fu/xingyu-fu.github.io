@@ -33,8 +33,7 @@ Free Add-Ons in Services, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service S
 Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Channel Structure, with Zihao Chen, Pin Gao, and Ying-Ju Chen, **Minor Revision** at **M&SOM** after 2 Rounds of Review [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4633817).
 
 
-Temporal Flexibility in Emission Permits Regulation, with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, **Major Revision** at **M&SOM** after 2 Rounds of Review [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094).
-- _POMS-Hong Kong 2022 Best Student Paper Award (Honorable Mention); POMS-China 2022 Best Student Paper Award (Second Place)_
+Temporal Flexibility in Emission Permits Regulation, with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, **Major Revision** at **M&SOM** after 2 Rounds of Review [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), [[POMS-HK 2022 Best Paper Honorable Mention]](https://www.ln.edu.hk/hkibs/poms2022), [[POMS-China 2022 Best Paper Second Place]](http://poms.xjtu.edu.cn/104243796/index?pageId=113978527)
 
 
 Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, **Major Revision** at **M&SOM** after 1 Round of Review [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576).
