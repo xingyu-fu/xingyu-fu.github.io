@@ -39,7 +39,7 @@ Temporal Flexibility in Emission Permits Regulation, with Ying-Ju Chen, Guillerm
 Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, **Major Revision** at **M&SOM** after 1 Round of Review [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576).
 
 
-Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Major Revision** at **Naval Research Logistics** after 2 Rounds of Review.
+Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, Under 3nd Round Review at **Naval Research Logistics** after **Major Revision**.
 
 
 Discriminatory Pricing in Service Systems: The Curse of Non-Transparency, with Zihao Chen, Yun Zhang, and Ying-Ju Chen.
