@@ -36,7 +36,7 @@ Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer S
 Temporal Flexibility in Emission Permits Regulation, with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, **Major Revision** at **M&SOM** after 2 Rounds of Review [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), [[POMS-HK 2022 Best Paper Honorable Mention]](https://www.ln.edu.hk/hkibs/poms2022), [[POMS-China 2022 Best Paper Second Place]](http://poms.xjtu.edu.cn/104243796/index?pageId=113978527).
 
 
-Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, **Major Revision** at **M&SOM** after 1 Round of Review [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576).
+Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, Under 2nd Round Review at **M&SOM** after **Major Revision** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576).
 
 
 Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, Under 3rd Round Review at **Naval Research Logistics** after **Major Revision**.
