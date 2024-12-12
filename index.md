@@ -30,7 +30,7 @@ Free Add-Ons in Services, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service S
 
 * * *
 ### Working Papers
-Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Channel Structure, with Zihao Chen, Pin Gao, and Ying-Ju Chen, Under 3rd Round Review at **M&SOM** after **Major Revision** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4633817).
+Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Channel Structure, with Zihao Chen, Pin Gao, and Ying-Ju Chen, Under 3rd Round Review at **M&SOM** after **Minor Revision** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4633817).
 
 
 Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, Under 2nd Round Review at **M&SOM** after **Major Revision** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576).
