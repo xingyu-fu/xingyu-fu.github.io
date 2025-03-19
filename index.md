@@ -26,7 +26,7 @@ Socially Responsible & Sustainable Operations; Marketing-Operations Interface; E
 ### Publications
 Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Channel Structure, with Zihao Chen, Pin Gao, and Ying-Ju Chen, **Forthcoming** at **Manufacturing & Service Operations Management** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4633817).
 
-Fairness Regulation of Prices in Competitive Markets, with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Manufacturing & Service Operations Management** 26(5):1897-1917 [[M&SOM]](https://pubsonline.informs.org/doi/10.1287/msom.2022.0552), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), [[UNSW Newsroom]](https://www.unsw.edu.au/newsroom/news/2024/09/how-banning-loyalty-penalties-can-help---or-hurt---consumers), [[BusinessThink]](https://www.businessthink.unsw.edu.au/articles/loyalty-penalty-regulations-market-competition-impact).
+Fairness Regulation of Prices in Competitive Markets, with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Manufacturing & Service Operations Management** 26(5):1897-1917 [[M&SOM]](https://pubsonline.informs.org/doi/10.1287/msom.2022.0552), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), [[UNSW Newsroom]](https://www.unsw.edu.au/newsroom/news/2024/09/how-banning-loyalty-penalties-can-help---or-hurt---consumers), [[BusinessThink]](https://www.businessthink.unsw.edu.au/articles/loyalty-penalty-regulations-market-competition-impact), [[Insurance Business Australia]](https://www.insurancebusinessmag.com/au/news/breaking-news/banning-loyalty-penalties-in-insurance-could-backfire-expert-warns-505239.aspx).
 
 Free Add-Ons in Services, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service Science** 14(4):292-306 [[ServSci]](https://pubsonline.informs.org/doi/abs/10.1287/serv.2022.0307).
 
@@ -35,7 +35,7 @@ Free Add-Ons in Services, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service S
 Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, Under 3rd Round Review at **M&SOM** after **Minor Revision** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576).
 
 
-On the Design of Emission Permits Regulation Considering Temporal Compliance Flexibility, with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, Under 3rd Round Review at **M&SOM** after **Major Revision** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), [[POMS-HK 2022 Best Paper Honorable Mention]](https://www.ln.edu.hk/hkibs/poms2022), [[POMS-China 2022 Best Paper Second Place]](http://poms.xjtu.edu.cn/104243796/index?pageId=113978527).
+On the Design of Emission Permits Regulation Considering Temporal Compliance Flexibility, with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, Under 3rd Round Review at **M&SOM** after **Major Revision** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), [[POMS-HK 2022 Best Paper Honorable Mention]](https://www.ln.edu.hk/fb/hkibs/pomshk), [[POMS-China 2022 Best Paper Second Place]](http://poms.xjtu.edu.cn/104243796/index?pageId=113978527).
 
 
 Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, Under 3rd Round Review at **Naval Research Logistics** after **Major Revision**.
