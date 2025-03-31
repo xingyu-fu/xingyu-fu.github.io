@@ -31,7 +31,7 @@ Fairness Regulation of Prices in Competitive Markets, with Zongsen Yang, Pin Gao
 Free Add-Ons in Services, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service Science** 14(4):292-306 [[ServSci]](https://pubsonline.informs.org/doi/abs/10.1287/serv.2022.0307).
 
 * * *
-### Working Papers
+### Selected Working Papers
 Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, Under 3rd Round Review at **M&SOM** after **Minor Revision** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576).
 
 
@@ -48,7 +48,3 @@ Managing Strategic Algorithm Manipulation by Human-AI Collaboration, with Jiexin
 
 
 Acquisition or Extortion? Policy Implementation by a Powerful Principal, with Ying-Ju Chen, Guillermo Gallego, and Pin Gao [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733).
-
-
-Selling New Product to Rationally (In)attentive Consumer, with Zheng Xie and Ying-Ju Chen [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4353325).
-
