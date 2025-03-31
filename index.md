@@ -35,7 +35,7 @@ Free Add-Ons in Services, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service S
 Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, Under 3rd Round Review at **M&SOM** after **Minor Revision** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576).
 
 
-On the Design of Emission Permits Regulation Considering Temporal Compliance Flexibility, with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, Under 3rd Round Review at **M&SOM** after **Major Revision** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), [[POMS-HK 2022 Best Paper Honorable Mention]](https://www.ln.edu.hk/fb/hkibs/pomshk), [[POMS-China 2022 Best Paper Second Place]](http://poms.xjtu.edu.cn/104243796/index?pageId=113978527).
+On the Design of Emission Permits Regulation Considering Temporal Compliance Flexibility, with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, Under **Minor Revision** at **M&SOM** after 3 Rounds of Review [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), [[POMS-HK 2022 Best Paper Honorable Mention]](https://www.ln.edu.hk/fb/hkibs/pomshk), [[POMS-China 2022 Best Paper Second Place]](http://poms.xjtu.edu.cn/104243796/index?pageId=113978527).
 
 
 Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, Under 3rd Round Review at **Naval Research Logistics** after **Major Revision**.
