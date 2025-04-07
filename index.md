@@ -47,7 +47,7 @@ Discriminatory Pricing in Service Systems: The Curse of Non-Transparency, with Z
 Managing Strategic Algorithm Manipulation by Human-AI Collaboration, with Jiexin Zheng and Jiali Zhou.
 
 
-A Tale of Two Systems: Competition and Coordination in Markets with DEI and Merit-Based Recruitment, with Boer Ouyang and Ying-Ju Chen.
+A Tale of Two Systems: Competition and Coordination in DEI and Merit-Based Job Markets, with Boer Ouyang and Ying-Ju Chen.
 
 
 Acquisition or Extortion? Policy Implementation by a Powerful Principal, with Ying-Ju Chen, Guillermo Gallego, and Pin Gao [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733).
