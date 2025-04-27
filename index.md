@@ -7,7 +7,7 @@ _Yea, though I walk through the valley of the shadow of death, I will fear no ev
 * * *
 ### Appointment
 School of Marketing, UNSW Business School, University of New South Wales, Sydney, Australia
-- Lecturer (Tenure Track Assistant Professor), June 2024-Present
+- Lecturer (Assistant Professor), June 2024-Present
 
 * * *
 ### Education
