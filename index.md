@@ -40,7 +40,7 @@ Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao
 Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, Under 3rd Round Review at **Naval Research Logistics** after **Major Revision**.
 
 
-Discriminatory Pricing in Service Systems: The Curse of Non-Transparency, with Zihao Chen, Haoyu Liu, and Ying-Ju Chen.
+Discriminatory Pricing in Service Systems: The Curse of Non-Transparency, with Zihao Chen, Haoyu Liu, and Ying-Ju Chen [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5258279).
 
 
 Managing Strategic Algorithm Manipulation by Human-AI Collaboration, with Jiexin Zheng and Jiali Zhou.
