@@ -39,6 +39,9 @@ Free Add-Ons in Services, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service S
 Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, Under 3rd Round Review at **M&SOM** after **Minor Revision** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576).
 
 
+On the Role of Sales Force in Product Line Design, with Xinyu Cao and Song Lin.
+
+
 Discriminatory Pricing in Service Systems: The Curse of Non-Transparency, with Zihao Chen, Haoyu Liu, and Ying-Ju Chen [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5258279).
 
 
