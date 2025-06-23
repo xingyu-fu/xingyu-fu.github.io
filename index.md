@@ -24,6 +24,8 @@ Socially Responsible & Sustainable Operations; Marketing-Operations Interface; E
 
 * * *
 ### Publications
+Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, **Conditionally Accepted** at **M&SOM** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576).
+
 Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Forthcoming** at **Naval Research Logistics**.
 
 Designing Emission Permits Regulation for Multiple Compliance Periods, with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, **Forthcoming** at **Manufacturing & Service Operations Management** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), [[POMS-HK 2022 Best Paper Honorable Mention]](https://www.ln.edu.hk/fb/hkibs/pomshk), [[POMS-China 2022 Best Paper Second Place]](http://poms.xjtu.edu.cn/104243796/index?pageId=113978527).
@@ -36,9 +38,6 @@ Free Add-Ons in Services, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service S
 
 * * *
 ### Working Papers
-Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, Under 3rd Round Review at **M&SOM** after **Minor Revision** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576).
-
-
 On the Role of Sales Force in Product Line Design, with Xinyu Cao and Song Lin.
 
 
