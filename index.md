@@ -26,7 +26,7 @@ Socially Responsible & Sustainable Operations; Marketing-Operations Interface; E
 ### Publications
 Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, **Conditionally Accepted** at **Manufacturing & Service Operations Management** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576).
 
-Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Forthcoming** at **Naval Research Logistics**.
+Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Forthcoming** at **Naval Research Logistics** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5325900).
 
 Designing Emission Permits Regulation for Multiple Compliance Periods, with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, **Forthcoming** at **Manufacturing & Service Operations Management** [[M&SOM]](https://pubsonline.informs.org/doi/10.1287/msom.2023.0341), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), [[POMS-HK 2022 Best Paper Honorable Mention]](https://www.ln.edu.hk/fb/hkibs/pomshk), [[POMS-China 2022 Best Paper Second Place]](http://poms.xjtu.edu.cn/104243796/index?pageId=113978527).
 
