@@ -30,7 +30,7 @@ Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao
 
 Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Forthcoming** at **Naval Research Logistics** [[NRL]](http://doi.org/10.1002/nav.70002), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5325900).
 
-Designing Emission Permits Regulation for Multiple Compliance Periods, with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, **Forthcoming** at **Manufacturing & Service Operations Management** [[M&SOM]](https://pubsonline.informs.org/doi/10.1287/msom.2023.0341), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), [[POMS-HK 2022 Best Paper Honorable Mention]](https://www.ln.edu.hk/fb/hkibs/pomshk/information/press-release), [[POMS-China 2022 Best Paper Second Place]](http://poms.xjtu.edu.cn/104243796/index?pageId=113978527).
+Designing Emission Permits Regulation for Multiple Compliance Periods, with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, **Manufacturing & Service Operations Management** 27(5): 1332-1682 [[M&SOM]](https://pubsonline.informs.org/doi/10.1287/msom.2023.0341), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), [[POMS-HK 2022 Best Paper Honorable Mention]](https://www.ln.edu.hk/fb/hkibs/pomshk/information/press-release), [[POMS-China 2022 Best Paper Second Place]](http://poms.xjtu.edu.cn/104243796/index?pageId=113978527).
 
 Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Channel Structure, with Zihao Chen, Pin Gao, and Ying-Ju Chen, **Forthcoming** at **Manufacturing & Service Operations Management** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4633817).
 
