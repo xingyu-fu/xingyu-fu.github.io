@@ -26,7 +26,7 @@ Socially Responsible & Sustainable Operations; Marketing-Operations Interface; E
 
 * * *
 ### Publications
-Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, **Forthcoming** at **Manufacturing & Service Operations Management** [[M&SOM]](https://pubsonline.informs.org/doi/10.1287/msom.2023.0271), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576).
+Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, **Forthcoming** at **Manufacturing & Service Operations Management** [[M&SOM]](https://pubsonline.informs.org/doi/10.1287/msom.2023.0271), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), [[BusinessThink]](https://www.businessthink.unsw.edu.au/articles/ai-privacy-recommendation-systems?mc_cid=7a331d03a9&mc_eid=01b2c5286c).
 
 Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Forthcoming** at **Naval Research Logistics** [[NRL]](http://doi.org/10.1002/nav.70002), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5325900).
 
