@@ -1,8 +1,4 @@
-_Rejoice always, pray continually, give thanks in all circumstances._
-
-_For God gave us not a spirit of fearfulness; but of power and love and discipline._
-
-_Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me._
+_A bruised reed he will not break, and a smoldering wick he will not snuff out._
 
 * * *
 ### Appointment
