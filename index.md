@@ -24,7 +24,7 @@ Socially Responsible & Sustainable Operations; Marketing-Operations Interface; E
 ### Publications
 Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, **Manufacturing & Service Operations Management** 28(1):271-289 [[M&SOM]](https://pubsonline.informs.org/doi/10.1287/msom.2023.0271), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), [[BusinessThink]](https://www.businessthink.unsw.edu.au/articles/ai-privacy-recommendation-systems?mc_cid=7a331d03a9&mc_eid=01b2c5286c).
 
-Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Forthcoming** at **Naval Research Logistics** [[NRL]](http://doi.org/10.1002/nav.70002), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5325900).
+Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Naval Research Logistics** 73(1): 55-76 [[NRL]](http://doi.org/10.1002/nav.70002), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5325900).
 
 Designing Emission Permits Regulation for Multiple Compliance Periods, with Ying-Ju Chen, Guillermo Gallego, Pin Gao, and Mengqian Lu, **Manufacturing & Service Operations Management** 27(5):1587-1603 [[M&SOM]](https://pubsonline.informs.org/doi/10.1287/msom.2023.0341), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900094), [[BusinessThink]](https://www.businessthink.unsw.edu.au/articles/emission-permits-regulation-climate-policy-business), [[POMS-HK 2022 Best Paper Honorable Mention]](https://www.ln.edu.hk/fb/hkibs/pomshk/information/press-release), [[POMS-China 2022 Best Paper Second Place]](http://poms.xjtu.edu.cn/104243796/index?pageId=113978527).
 
