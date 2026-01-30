@@ -41,8 +41,3 @@ On the Role of Sales Agent in Product Line Design, with Xinyu Cao and Song Lin.
 
 Discriminatory Pricing in Service Systems: The Curse of Non-Transparency, with Zihao Chen, Haoyu Liu, and Ying-Ju Chen [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5258279), [[POMS-China 2025 Best Paper Second Prize]](https://poms.tju.edu.cn/#).
 
-
-Managing Strategic Algorithm Manipulation by Human-AI Collaboration, with Jiexin Zheng and Jiali Zhou.
-
-
-Acquisition or Extortion? Policy Implementation by a Powerful Principal, with Ying-Ju Chen, Guillermo Gallego, and Pin Gao [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831733).
