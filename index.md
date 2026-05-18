@@ -39,5 +39,8 @@ Free Add-Ons in Services, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service S
 On the Role of Sales Force in Product Line Design, with Xinyu Cao and Song Lin.
 
 
+Managing Algorithm Manipulation Through Human-AI Collaboration, with Jiexin Zheng and Jiali Zhou, **Major Revision** at **Management Science**
+
+
 Discriminatory Pricing in Service Systems: The Curse of Non-Transparency, with Zihao Chen, Haoyu Liu, and Ying-Ju Chen [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5258279), [[POMS-China 2025 Best Paper Second Prize]](https://poms.tju.edu.cn/#).
 
