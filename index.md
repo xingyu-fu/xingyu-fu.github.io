@@ -3,6 +3,7 @@ _A bruised reed he will not break, and a smoldering wick he will not snuff out._
 * * *
 ### Appointment
 School of Marketing, UNSW Business School, University of New South Wales, Sydney, Australia
+- Scientia Fellow, Jan 2027-Dec 2030
 - Senior Lecturer, July 2026-Present
 - Lecturer, June 2024-June 2026
 
