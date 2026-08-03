@@ -17,6 +17,18 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+        <nav class="site-nav">
+  <a href="{{ '/' | relative_url }}"
+     class="{% if page.url == '/' %}active{% endif %}">
+    Home
+  </a>
+
+  <a href="{{ '/books/' | relative_url }}"
+     class="{% if page.url == '/books/' %}active{% endif %}">
+    Books
+  </a>
+</nav>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
