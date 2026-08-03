@@ -18,7 +18,18 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        <nav class="site-nav">
+        
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+<!--         <p>{{ site.description | default: site.github.project_tagline }}</p> -->
+
+        <p>       </p>
+        
+        <p>Email: xingyu.fu@unsw.edu.au</p>
+
+<nav class="site-nav" aria-label="Main navigation">
   <a href="{{ '/' | relative_url }}"
      class="{% if page.url == '/' %}active{% endif %}">
     Home
@@ -30,15 +41,6 @@
   </a>
 </nav>
         
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
-<!--         <p>{{ site.description | default: site.github.project_tagline }}</p> -->
-
-        <p>       </p>
-        
-        <p>Email: xingyu.fu@unsw.edu.au</p>
         <p><a href="https://github.com/xingyu-fu/xingyu-fu.github.io/blob/main/assets/xingyu_resume.pdf">CV</a></p>
         <p><a href="https://www.unsw.edu.au/staff/xingyu-fu">UNSW Profile</a></p>
         <p><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4153426">SSRN</a></p>
