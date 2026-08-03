@@ -6,5 +6,6 @@ permalink: /books/
 
 ### Recommended Books
 This page contains books that I have enjoyed since April 2026.
-- The Shortest History of AI | by Toby Walsh
+- The Shortest History of AI  |  by Toby Walsh
+- 
 - 
