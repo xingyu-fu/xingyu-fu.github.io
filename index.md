@@ -47,4 +47,4 @@ Managing Algorithm Manipulation Through Human-AI Collaboration, with Jiexin Zhen
 Discriminatory Pricing in Service Systems: The Curse of Non-Transparency, with Zihao Chen, Haoyu Liu, and Ying-Ju Chen [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5258279), [[POMS-China 2025 Best Paper Second Prize]](https://poms.tju.edu.cn/#).
 
 
-Dynamic Competitive Pricing under Capacity Uncertainty: The Roles of Initial Capacity and Interim Inventory Information, with Jie Liu, Zizhuo Wang, and Ying-Ju Chen
+Dynamic Competitive Pricing under Static Capacity and Dynamic Inventory Information, with Jie Liu, Zizhuo Wang, and Ying-Ju Chen
