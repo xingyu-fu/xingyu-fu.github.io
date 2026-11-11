@@ -20,7 +20,7 @@ Visiting Undergrad, Math & Econ, UC Berkeley, Spring 2017
 
 * * *
 ### Research Interests
-Socially Responsible & Sustainable Operations; Marketing-Operations Interface; Economics of Information, Digitization, and Artificial Intelligence.
+Socially Responsible & Sustainable Operations; Marketing-Operations Interface; Economics of Data and AI.
 
 * * *
 ### Publications
