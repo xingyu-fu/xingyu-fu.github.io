@@ -24,7 +24,7 @@ Socially Responsible & Sustainable Operations; Marketing-Operations Interface; E
 
 * * *
 ### Publications
-Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, **Manufacturing & Service Operations Management** 28(1):271-289 [[M&SOM]](https://pubsonline.informs.org/doi/10.1287/msom.2023.0271), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), [[BusinessThink]](https://www.businessthink.unsw.edu.au/articles/ai-privacy-recommendation-systems?mc_cid=7a331d03a9&mc_eid=01b2c5286c), [[AEMC]](https://www.aemc.gov.au/sites/default/files/2026-06/final_report.pdf).
+Privacy-Preserving Personalized Recommender Systems, with Ningyuan Chen, Pin Gao, and Yang Li, **Manufacturing & Service Operations Management** 28(1):271-289 [[M&SOM]](https://pubsonline.informs.org/doi/10.1287/msom.2023.0271), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202576), [[BusinessThink]](https://www.businessthink.unsw.edu.au/articles/ai-privacy-recommendation-systems?mc_cid=7a331d03a9&mc_eid=01b2c5286c).
 
 Optimal Job Assignment with Spillover Effects, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Naval Research Logistics** 73(1): 55-76 [[NRL]](http://doi.org/10.1002/nav.70002), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5325900).
 
@@ -32,7 +32,7 @@ Designing Emission Permits Regulation for Multiple Compliance Periods, with Ying
 
 Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Channel Structure, with Zihao Chen, Pin Gao, and Ying-Ju Chen, **Manufacturing & Service Operations Management** 28(3):783-801 [[M&SOM]](https://pubsonline.informs.org/doi/10.1287/msom.2023.0288), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4633817).
 
-Fairness Regulation of Prices in Competitive Markets, with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Manufacturing & Service Operations Management** 26(5):1897-1917 [[M&SOM]](https://pubsonline.informs.org/doi/10.1287/msom.2022.0552), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), [[UNSW Newsroom]](https://www.unsw.edu.au/newsroom/news/2024/09/how-banning-loyalty-penalties-can-help---or-hurt---consumers), [[BusinessThink]](https://www.businessthink.unsw.edu.au/articles/loyalty-penalty-regulations-market-competition-impact), [[Insurance Business Australia]](https://www.insurancebusinessmag.com/au/news/breaking-news/banning-loyalty-penalties-in-insurance-could-backfire-expert-warns-505239.aspx).
+Fairness Regulation of Prices in Competitive Markets, with Zongsen Yang, Pin Gao, and Ying-Ju Chen, **Manufacturing & Service Operations Management** 26(5):1897-1917 [[M&SOM]](https://pubsonline.informs.org/doi/10.1287/msom.2022.0552), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4050815), [[UNSW Newsroom]](https://www.unsw.edu.au/newsroom/news/2024/09/how-banning-loyalty-penalties-can-help---or-hurt---consumers), [[BusinessThink]](https://www.businessthink.unsw.edu.au/articles/loyalty-penalty-regulations-market-competition-impact), [[Insurance Business Australia]](https://www.insurancebusinessmag.com/au/news/breaking-news/banning-loyalty-penalties-in-insurance-could-backfire-expert-warns-505239.aspx), [[AEMC]](https://www.aemc.gov.au/sites/default/files/2026-06/final_report.pdf).
 
 Free Add-Ons in Services, with Pin Gao, Haoyu Liu, and Ying-Ju Chen, **Service Science** 14(4):292-306 [[ServSci]](https://pubsonline.informs.org/doi/abs/10.1287/serv.2022.0307).
 
